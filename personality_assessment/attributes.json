@@ -1,0 +1,528 @@
+{
+    "instructions": "Test Instructions:\n  * Complete all 107 questions on the questionnaire\n  * ***If you miss a question, your overall scores won't be accurate***\n  * So make absolutely sure that you have answered EVERY question\n  * Even if you do not think the question applies to you or to your life circumstances, answer how you think you would respond if it did apply to you.\n\nSelect One:\n  * Y (Yes, I agree) Choose this option if the entire statement is completely true for your most of the time.\n  * M (Maybe I agree) Choose this option if the entire statement is sometimes or somewhat true for you. Choose this option also for the multiple-part statements when you agree with one part but disagree with another part.\n   * N (No, I don't agree) Choose this option if the statement is completely false for you.",
+    "questions": [
+        {
+            "text": "I tend to spend more time on my work than do some of my colleagues or coworkers, since I'm a perfectionist and like things to be done right.",
+            "category": "J"
+        },
+        {
+            "text": "I am a very organized person. I like to follow a schedule and make lists of things I have to do. Sometimes I have more lists than I know what to do with!",
+            "category": "J"
+        },
+        {
+            "text": "I've sometimes been called a \"workaholic\". It's true that I work very hard, even when I have enough money and the bills are all paid. I suppose if I wanted to I could knock off and relax, at least for a little while.",
+            "category": "J"
+        },
+        {
+            "text": "I like my usual routines for doing things and I can be quite stubborn if people try to get me to change them.",
+            "category": "J"
+        },
+        {
+            "text": "I hate routine and I'm not very good at obligations, so I put things off as long as I can or I just never get around to doing them.",
+            "category": "K"
+        },
+        {
+            "text": "Whenever I succeed at something, I find that either I don't really enjoy it much or something goes wrong somewhere else in my life.",
+            "category": "M"
+        },
+        {
+            "text": "I have a lot of abilities I can't seem to take advantage of. When I'm good at something, I can help other people with it, but I can't seem to put my ability to work for myself.",
+            "category": "M"
+        },
+        {
+            "text": "I have a fairly good sense of myself. I know what kind of work I want to do, what kind of friends I like to be with, and overall what sorts of things are important to me.",
+            "category": "E",
+            "reversed": true
+        },
+        {
+            "text": "I feel like I'm just an outer shell with nothing inside. I can feel pretty aimless.",
+            "category": "E"
+        },
+        {
+            "text": "I like to daydream. I imagine myself rich or powerful or famous- maybe being applauded for winning the Nobel Prize, or idolized by crowds of fans for my talent or beauty.",
+            "category": "G"
+        },
+        {
+            "text": "Even though I'm not sure I should be, I find myself fascinated by violence, weapons, and the martial arts. I like films and TV shows with a lot of action and violence in them.",
+            "category": "L"
+        },
+        {
+            "text": "People say that I express myself in an odd way- that I say things that are too deep for them, or that I don't explain what I mean.",
+            "category": "C"
+        },
+        {
+            "text": "I've been called arrogant, but so what!",
+            "category": "G"
+        },
+        {
+            "text": "I like to be admired and I have a habit of fishing for compliments when I'm being ignored.",
+            "category": "G"
+        },
+        {
+            "text": "My appearance is very important to me. I spend a great deal of time making sure I look attractive.",
+            "category": "F"
+        },
+        {
+            "text": "People sometimes think I'm eccentric because I dress my own way and because I seem a little \"spaced out\" to them. It's true that I live sort of in my own little world.",
+            "category": "C"
+        },
+        {
+            "text": "Even though I think I understand people, they're always telling me I don't have a clue about how they feel.",
+            "category": "G"
+        },
+        {
+            "text": "When it comes to standing in line or being seated in a crowded restaurant, I usually try to get to the front and get waited on right away-or at least I feel that's how I should be treated.",
+            "category": "G"
+        },
+        {
+            "text": "I don't believe in feeling guilty about what I've done.",
+            "category": "D"
+        },
+        {
+            "text": "I'm a cut above most people. The people I associate with and the organizations I belong to are all influential and important.",
+            "category": "G"
+        },
+        {
+            "text": "Perhaps some people think I'm uptight or rigid, but I believe strongly that there's never an excuse for immoral or unethical behavior.",
+            "category": "J"
+        },
+        {
+            "text": "I prefer to get other people's input or advice before making decisions, even everyday ones.",
+            "category": "I"
+        },
+        {
+            "text": "I just can't seem to throw things out, even if they're useless or meaningless to me.",
+            "category": "J"
+        },
+        {
+            "text": "Maybe I do exaggerate my own importance, but frankly I think I'm worth it.",
+            "category": "G"
+        },
+        {
+            "text": "I judge myself much too harshly; I'm always blaming myself for everything that goes wrong or doesn't work out.",
+            "category": "N"
+        },
+        {
+            "text": "I wouldn't call myself a light-hearted person. Things weigh more heavily on me than on most people, and I tend to be pretty somber most of the time.",
+            "category": "N"
+        },
+        {
+            "text": "Sometimes I think that Guilt is my middle personality_type, since I'm always feeling guilty and remorseful or that I've done something wrong.",
+            "category": "N"
+        },
+        {
+            "text": "I don't have much confidence in myself. Sometimes I feel I'm just worthless.",
+            "category": "N"
+        },
+        {
+            "text": "Even though I don't hesitate to tell others about my problems, I'm very uncomfortable letting them help me with them.",
+            "category": "M"
+        },
+        {
+            "text": "People may think I talk too much about my misfortunes, but they don't understand how bad things really are for me.",
+            "category": "K"
+        },
+        {
+            "text": "I sometimes feel myself laughing at other people's misfortunes, even though I'm not very proud of that reaction. Maybe it's just a way of saying, \"There but for the grace of God go I.\"",
+            "category": "L"
+        },
+        {
+            "text": "I find it hard being around people who are better off than I am, since I often feel jealous of their good fortune.",
+            "category": "K"
+        },
+        {
+            "text": "I sometimes find it difficult to let go and have fun. When opportunities to enjoy myself come up, for some reason I have a hard time taking advantage of them.",
+            "category": "M"
+        },
+        {
+            "text": "When it comes to relationships, sometimes I think I am my own worst enemy. I keep getting involved with people who end up treating me badly or disappointing me. I can't believe I'm so bad at sizing up others- I must be na\u00efve.",
+            "category": "M"
+        },
+        {
+            "text": "I often can be difficult to be with, and when I think about it, my own expectations of others can be pretty unreasonable. But I still get upset when others get mad at me.",
+            "category": "M"
+        },
+        {
+            "text": "When someone really cares about me or treats me with a lot of kindness or tenderness, I often feel uninterested. Somehow it just seems boring to me unless there's a real challenge in the relationship.",
+            "category": "M"
+        },
+        {
+            "text": "I think sometimes I do too much for other people.",
+            "category": "M"
+        },
+        {
+            "text": "I usually leave the big decisions to the important people in my life.",
+            "category": "I"
+        },
+        {
+            "text": "I'm not what you would call a self-starter. I'm a much better follower than a leader, but I can be a very loyal team player.",
+            "category": "I"
+        },
+        {
+            "text": "I like to express agreement with other people. When I disagree, I usually keep it to myself.",
+            "category": "I"
+        },
+        {
+            "text": "I'll go out of my way to do things for other people- sometimes even unpleasant things- to get them to like me.",
+            "category": "I"
+        },
+        {
+            "text": "I do much better when I'm in a relationship because I feel pretty helpless when I'm on my own.",
+            "category": "I"
+        },
+        {
+            "text": "When a relationship ends, I get kind of panicky and start searching right away for a new one.",
+            "category": "I"
+        },
+        {
+            "text": "Probably I worry too much that I won't be able to take care of myself if I lose the important person in my life.",
+            "category": "I"
+        },
+        {
+            "text": "Sometimes I worry so much that people will leave me that I get sort of frantic and call them up to get them to reassure me, which must get pretty annoying.",
+            "category": "E"
+        },
+        {
+            "text": "I love being the center attention- it's exhilarating. I'm much more comfortable in the middle of the action than at the sidelines.",
+            "category": "F"
+        },
+        {
+            "text": "I like to flirt and I like people to think I'm sexually appealing.",
+            "category": "F"
+        },
+        {
+            "text": "People describe me as very entertaining. I can tell about things that happen in a very enjoyable and colorful way, without having to get all the facts straight all the time.",
+            "category": "F"
+        },
+        {
+            "text": "I'm rather suggestible. I have to watch out that I'm not too easily swayed by other people.",
+            "category": "F"
+        },
+        {
+            "text": "All too often I assume there's more to a relationship than there really is. This causes me a lot of heartache.",
+            "category": "F"
+        },
+        {
+            "text": "I typically get into very intense relationships and I usually find my feelings about the person change from one extreme to another. Sometimes I almost worship, and other times I can't stand, the person I'm with.",
+            "category": "E"
+        },
+        {
+            "text": "For me, envy is a fact of life. Either I'm envying somebody else, or someone is probably envying me.",
+            "category": "G"
+        },
+        {
+            "text": "I am not a very trusting person, even though I would like to be. I just can't help worrying that other people might take advantage of me unless I'm careful.",
+            "category": [
+                "A",
+                "C"
+            ]
+        },
+        {
+            "text": "Sometimes I think that my friends or colleagues are not really as loyal as I would like them to be.",
+            "category": "A"
+        },
+        {
+            "text": "I don't really have any close friends, except maybe some members of my immediate family.",
+            "category": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "text": "I'm the jealous type. In my relationships, I find myself worrying whether my partner is being faithful.",
+            "category": "A"
+        },
+        {
+            "text": "I am a fairly private person and I generally keep things to myself, since you never know who will use personal information to their own advantage.",
+            "category": [
+                "A",
+                "C"
+            ]
+        },
+        {
+            "text": "I tend to be a loner, which is fine with me. I don't really enjoy being around other people that much, even my family.",
+            "category": "B"
+        },
+        {
+            "text": "When I have a choice, I prefer to do things by myself.",
+            "category": "B"
+        },
+        {
+            "text": "I don't have a very strong drive to have sex with anyone.",
+            "category": "B"
+        },
+        {
+            "text": "It's hard for me to be myself in intimate relationships. I'm afraid I'll seem ridiculous, so I hold back.",
+            "category": "H"
+        },
+        {
+            "text": "I'm shy around new people.",
+            "category": "H"
+        },
+        {
+            "text": "I often find social situations unbearable, even with people I know. I can't stand the feeling that the others are looksort of sizing me up, not always in a flattering way.",
+            "category": "C"
+        },
+        {
+            "text": "I usually wait to get involved with people until I'm sure they like me.",
+            "category": "B"
+        },
+        {
+            "text": "I feel more comfortable in work settings that do not involve a lot of people because I can't help worrying that my co-wocritical of me.",
+            "category": "B"
+        },
+        {
+            "text": "Socially, I am a very confident person. I talk comfortably and am not awfully self-conscious or anxious that I'll stupid or appear uninformed.",
+            "category": "B"
+        },
+        {
+            "text": "People don't really appreciate or understand me.",
+            "category": "K"
+        },
+        {
+            "text": "I can be rather critical of my boss or of other people in authority. Maybe I don't appreciate what it's like to be inbut it seems to me I sure could do a better job much of the time.",
+            "category": "K"
+        },
+        {
+            "text": "When somebody asks me to do something I don't want to do, I can be a real pain- I'll sometimes argue or sulk or get very grouchy.",
+            "category": "K"
+        },
+        {
+            "text": "If somebody nags me, I can get really stubborn and obnoxious, but later I might feel guilty and try to make it up.",
+            "category": "K"
+        },
+        {
+            "text": "I wish I weren't always so down on other people. No matter what they do, I seem to find something wrong with them.",
+            "category": "N"
+        },
+        {
+            "text": "Some people say that I insist on doing too much myself, but I'd rather do the work myself than have someone else dincompletely. And I'll risk being called \"bossy\" if that's what it takes to get people to do things in what I believe iway.",
+            "category": "J"
+        },
+        {
+            "text": "I think strict discipline is extremely important. Although I don't necessarily believe in physical punishment, I do bprinciple behind the saying, \"Spare the rod and spoil the child.\"",
+            "category": "L"
+        },
+        {
+            "text": "My family members sometimes complain that I don't allow them enough independence or freedom. I guess I do run a pretty tight ship.",
+            "category": "L"
+        },
+        {
+            "text": "People have told me that I put them down in front of others. They shouldn't be so thin-skinned- words aren't going to And if they really think I'm being too critical, they should be able to stand up to me.",
+            "category": "L"
+        },
+        {
+            "text": "I suppose I can be fairly intimidating. Some people have told me that they do what I want because they're afraid of me.",
+            "category": "L"
+        },
+        {
+            "text": "I prefer to be in the dominant position in my relationships. As a result, I can sometimes seem mean or cruel without realizing it.",
+            "category": "L"
+        },
+        {
+            "text": "I believe there are situations in which you have to step on someone's toes to get where you're going.",
+            "category": "G"
+        },
+        {
+            "text": "I find that certain people do little things to tease, annoy, or even insult me, just to get my goat.",
+            "category": "A"
+        },
+        {
+            "text": "If somebody doesn't treat me right, I'll probably hold a grudge for a long time.",
+            "category": "A"
+        },
+        {
+            "text": "I don't necessarily tell the truth.",
+            "category": "D"
+        },
+        {
+            "text": "Occasionally I make up stories or distort the truth, just to see how other people will react. These are just jokes, thoufor anybody to get angry.",
+            "category": "L"
+        },
+        {
+            "text": "People sometimes tell me I act like I have a chip on my shoulder. It's true that I'll fight or argue with anybody who gside.",
+            "category": "D"
+        },
+        {
+            "text": "I have a keen sense of when I'm being criticized, even when it's veiled, and I can tell you that I don't let anybody get away with it.",
+            "category": "A"
+        },
+        {
+            "text": "I have a terrible temper, but there's nothing I can do about it.",
+            "category": "E"
+        },
+        {
+            "text": "People sometimes tell me that they can't be sure when to take my feelings seriously.",
+            "category": "F"
+        },
+        {
+            "text": "I express my feelings in a vivid and dramatic way.",
+            "category": "F"
+        },
+        {
+            "text": "I go my own way emotionally. For example, something sad may strike me as funny and I'll laugh.",
+            "category": "C"
+        },
+        {
+            "text": "I'm very reactive mood-wise. Little things can set me off. In a matter of a few hours I can experience a wide range of of emotions: happy to sad, annoyed, or anxious. But the bad moods never last long.",
+            "category": "E"
+        },
+        {
+            "text": "I tend to brood and worry a lot.",
+            "category": "N"
+        },
+        {
+            "text": "I wish I didn't worry so much about what other people think of me in social situations.",
+            "category": "H"
+        },
+        {
+            "text": "I hate trying new things or taking risks because I'm afraid I'll make a fool of myself.",
+            "category": "H"
+        },
+        {
+            "text": "There's not all that much that I really enjoy doing.",
+            "category": "B"
+        },
+        {
+            "text": "You can call me \"poker-faced\" since I'm generally very unemotional.",
+            "category": "B"
+        },
+        {
+            "text": "I'm not the type to reveal any reaction when others criticize me or even compliment me.",
+            "category": "B"
+        },
+        {
+            "text": "I guess I'm on a different wavelength from most other people. Sometimes I can feel strange things that are very reathough I can't prove them, such as being outside of my own body or in the presence of a family member who has died.",
+            "category": "C"
+        },
+        {
+            "text": "I am fascinated by things like magic, ESP, and the supernatural. I have a sort of \"sixth sense\" and have sometiexperiences where I knew something was going to happen before it did.",
+            "category": "C"
+        },
+        {
+            "text": "I tend to see the glass as half empty rather than half full.",
+            "category": "N"
+        },
+        {
+            "text": "I do not spend money easily. Even though some people think I'm stingy, I believe that money belongs in the bank, in case something terrible happens.",
+            "category": "J"
+        },
+        {
+            "text": "I like to act on impulse when the spirit moves me. For instance, I'll get drunk or stoned if I'm in the mood, I may indmaybe I'll drive too fast, or enjoy a big shopping spree. Acting this way makes life a lot more interesting, although it backfires sometimes.",
+            "category": "E"
+        },
+        {
+            "text": "I can be very dramatic when I'm upset. I have been known to threaten to harm myself, but I don't really mean it.",
+            "category": "E"
+        },
+        {
+            "text": "I am intrigued by an underground kind of life where you can break the rules and get away with it.",
+            "category": "D"
+        },
+        {
+            "text": "I just don't have the patience to stick with a job for long or worry about finances or paying my bills, so some peoirresponsible.",
+            "category": "D"
+        },
+        {
+            "text": "I'm not the kind of person who always takes the careful route. I may take risks- like driving over the speed limit orI've had something to drink- but I know what I'm doing and I get where I'm going.",
+            "category": "D"
+        },
+        {
+            "text": "I like to do things spontaneously, without planning ahead.",
+            "category": "D"
+        },
+        {
+            "text": "When I was a kid, I was something of a hellraiser and was always getting into trouble. Some of these things applied to school; I ran away from home; I got into fights; I fooled around sexually; I told lies; I stole; I bullied peoplepeople's property.",
+            "category": "D"
+        },
+        {
+            "text": "When I'm under a lot of stress I can get unreasonably suspicious, or else I just tune everything out and pretend it isn't happening.",
+            "category": "E"
+        }
+    ],
+    "categories": {
+        "A": {
+            "personality_type": "Vigilant",
+            "unmanaged_disorder": "Paranoid",
+            "main_interest": "maintaing autonomy",
+            "description": "A"
+        },
+        "B": {
+            "personality_type": "Solitary",
+            "unmanaged_disorder": "Schizoid",
+            "main_interest": "finding solitude",
+            "description": "A"
+        },
+        "C": {
+            "personality_type": "Idiosyncratic",
+            "unmanaged_disorder": "Schizotypical",
+            "main_interest": "nonconforming",
+            "description": "A"
+        },
+        "D": {
+            "personality_type": "Adventurous",
+            "unmanaged_disorder": "Antisocial",
+            "main_interest": "facing challenges",
+            "description": "A"
+        },
+        "E": {
+            "personality_type": "Mercurial",
+            "unmanaged_disorder": "Borderline",
+            "main_interest": "maintaining relationships",
+            "description": "A"
+        },
+        "F": {
+            "personality_type": "Dramatic",
+            "unmanaged_disorder": "Histrionic",
+            "main_interest": "getting attention",
+            "description": "A"
+        },
+        "G": {
+            "personality_type": "Self-confident",
+            "unmanaged_disorder": "Narcissistic",
+            "main_interest": "being successful",
+            "description": "A"
+        },
+        "H": {
+            "personality_type": "Sensitive",
+            "unmanaged_disorder": "Avoidant",
+            "main_interest": "being accepted",
+            "description": "A"
+        },
+        "I": {
+            "personality_type": "Devoted",
+            "unmanaged_disorder": "Dependent",
+            "main_interest": "being helped",
+            "description": "A"
+        },
+        "J": {
+            "personality_type": "Conscientious",
+            "unmanaged_disorder": "Obsessive-Compulsive",
+            "main_interest": "achieving things",
+            "description": "A"
+        },
+        "K": {
+            "personality_type": "Leisurely",
+            "unmanaged_disorder": "Passive-Aggressive",
+            "main_interest": "doing as you please",
+            "description": "A"
+        },
+        "L": {
+            "personality_type": "Aggressive",
+            "unmanaged_disorder": "Sadistic",
+            "main_interest": "exercising power",
+            "description": "A"
+        },
+        "M": {
+            "personality_type": "Self-sacrificing",
+            "unmanaged_disorder": "Self-Defeating",
+            "main_interest": "helping others",
+            "description": "A"
+        },
+        "N": {
+            "personality_type": "Serious",
+            "unmanaged_disorder": "Depressive",
+            "main_interest": "making a living"
+        }
+    }
+}
