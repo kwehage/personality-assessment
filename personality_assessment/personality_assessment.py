@@ -14,7 +14,9 @@ else:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('input_file', default=None)
+    parser.add_argument('-i', '--input-file', action='store_true', default=None,
+                        help='specify path to text file containing y or n '
+                             'responses on each line')
     return parser.parse_args()
 
 
